@@ -1,2 +1,2 @@
 # ringkasan-materi
-aplikasi peringkas materi sederhana
+ Web Peringkas Materi sederhana

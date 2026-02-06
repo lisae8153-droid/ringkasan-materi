@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📚 Aplikasi Ringkasan Materi")
+st.title("📚 Web Peringkas Materi")
 
 teks = st.text_area("Masukkan Materi:")
 
