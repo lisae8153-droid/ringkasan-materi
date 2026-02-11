@@ -1,9 +1,9 @@
 import streamlit as st
 
 # Judul Web
-st.set_page_config(page_title="Asisten Pembuat Intisari Materi")
+st.set_page_config(page_title="Asisten Peringkas Materi")
 
-st.title("📘 Asisten Pembuat Intisari Materi")
+st.title("📘 Asisten Peringkas Materi")
 st.write("Masukkan materi, lalu sistem akan membuat ringkasan dalam bentuk paragraf.")
 
 # Input teks
